@@ -1,0 +1,16 @@
+img {
+    width: 50px;
+    height: 50px;
+}
+body{
+    background-image: url(../../img/acc.jpg);
+    background-repeat: no-repeat;
+background-attachment: fixed;}
+.nom{
+color: aliceblue;
+    font-size: 50px;
+}
+.mm{
+    width: 150px;
+    height: 150px;
+}
